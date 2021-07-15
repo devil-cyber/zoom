@@ -1,17 +1,5 @@
 <h1 align="center">Welcome to zoom 👋</h1>
 <img src="/asset/image.png">
-<p>
-  <a href="https://www.npmjs.com/package/zoom" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/zoom.svg">
-  </a>
-  <a href="https://github.com/devil-cyber/zoom#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/devil-cyber/zoom/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-</p>
-
 > A webrtc based video chat application that uses node.js as backend and react as frontend
 
 ### 🏠 [Homepage](https://github.com/devil-cyber/zoom#readme)
