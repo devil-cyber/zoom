@@ -1,0 +1,26 @@
+{
+  "name": "zoom",
+  "version": "1.0.0",
+  "description": "A webrtc based chatting video client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devil-cyber/zoom.git"
+  },
+  "author": "Manikant Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devil-cyber/zoom/issues"
+  },
+  "homepage": "https://github.com/devil-cyber/zoom#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.1.3"
+  }
+}
