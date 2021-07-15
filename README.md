@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to zoom 👋</h1>
+<img src="/asset/image.png">
 <p>
   <a href="https://www.npmjs.com/package/zoom" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/zoom.svg">
